@@ -32,7 +32,7 @@ A25 = '\x1b[1;92m\x1b[38;5;50m'
 
 def banner():
     os.system('clear')
-    print('\n\x1b[38;5;46m\n\x1b[1;92m\x1b[38;5;59m██   ██ █████ABIR KHAN█ ████████  █████  ██\n\x1b[1;92m\x1b[38;5;47m██   ██ ██     ABIR KHAN   ██ ██\n\x1b[1;92m\x1b[38;5;210m███████ █████  ABIR KHAN██    ██    ███████ ██\n\x1b[1;92m\x1b[38;5;50m██   ██ ██      ██ ABIR KHAN█    ██    ██   ██ ██\n\x1b[1;92m\x1b[38;5;208m██   ██ ███ABIR KHAN█   ████    ██    ██   ██ ██ \n\n\x1b[1;97m━━━━━━━━━━━━━━━━━━━━━━━━━')
+    print('\n\x1b[38;5;46m\n\x1b[1;92m\x1b[38;5;59m  A B I R K H A N \n\n\x1b[1;97m━━━━━━━━━━━━━━━━━━━━━━━━━')
 
 
 def menu():
